@@ -49,37 +49,37 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="[https://www.cprogramming.com/](https://tse3.mm.bing.net/th?id=OIP.bkbn2-K7c9rMBV5dvYXDrQHaIh&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="[https://www.w3schools.com/cpp/](https://tse1.mm.bing.net/th?id=OIP.ggb-3B-8LRfbgS0lPLYNxwHaIU&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="[https://www.w3schools.com/css/](https://tse2.mm.bing.net/th?id=OIP.lxU5oKoy-oTFJR8RVVq7CQHaEW&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="[https://www.w3.org/html/](https://tse2.mm.bing.net/th?id=OIP.sxgAuWLSIvPXh0cZ2bmQvgHaIj&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="[https://www.java.com](https://tse1.mm.bing.net/th?id=OIP.PPB02Q499YYK-SeXk2iW0wHaEK&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://tse4.mm.bing.net/th?id=OIP.XzKf8LSJK5Mm1InNQVUw9wHaIZ&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="[https://www.mysql.com/](https://tse3.mm.bing.net/th?id=OIP.NPn1Kl-7SeSbRo6GHGiVLwAAAA&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="[https://www.photoshop.com/en](https://tse4.mm.bing.net/th?id=OIP.F1Aavx-5ElbTGNLuLSlwLgHaHO&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="[https://www.python.org](https://tse4.mm.bing.net/th?id=OIP.C3mFbOhS8o5T01XL0e64IAHaHa&pid=Api&P=0&h=220)" target="_blank" rel="noreferrer">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
