@@ -12,7 +12,7 @@
 - 📝 I  write articles on [https://medium.com/@anjalisharma1562005](https://medium.com/@anjalisharma1562005)
 
 - 💬 Ask me about **SQL , HTML5 , CSS , C++ , C , JAVA, PYTHON , FLASK , JAVASCRIPT**
-- 📫 This is my Portfolio website --> [https://anjalisharma3463.github.io/_(https://anjalisharma3463.github.io/).
+- 📫 This is my Portfolio website --> [https://anjalisharma3463.github.io/]
 
 - 📫 How to reach me **anjalisharma1562005@gmail.com**
 
