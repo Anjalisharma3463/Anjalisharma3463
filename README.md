@@ -24,8 +24,8 @@
   <a href="https://twitter.com/AnjaliS57610098">
   <img align="center" alt="Anjalisharma| Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
-<a href=" ">
-  <img align="center" alt="linkdin" width="22px" src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png"/>
+<a href="https://www.linkedin.com/in/anjali-sharma%F0%9F%9A%80-760a06238/ ">
+  <img align="center" alt="linkdin" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" height ="30" width="40" />
 </a>
 <a href="https://www.instagram.com/coder_infinity1/ ">
   <img align="center" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
