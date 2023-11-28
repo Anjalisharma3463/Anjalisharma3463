@@ -20,6 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 <img align ="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
   <a href="https://twitter.com/anjalis57610098" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjalis57610098" height="30" width="40" />
@@ -44,6 +45,7 @@
   </a>
 </p>
 
+   
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
