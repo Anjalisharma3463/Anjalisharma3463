@@ -71,7 +71,7 @@
 <div align="center">
 
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjalisharma3463&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asymtode712&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjalisharma3463&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjalisharma3463&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjalisharma3463&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjalisharma3463&theme=radical&utcOffset=8">
