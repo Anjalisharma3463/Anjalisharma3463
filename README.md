@@ -47,23 +47,17 @@
 <a href="https://twitter.com/AnjaliS57610098 " target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
-
-<br>
-
-  ## 💻 Tech Stack:
-
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs,express,c,python" />
-</a>
-<br>
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=,materialui,tailwind,mysql,cpp,java,vercel,git,bash" />
-</a>
-
-</div>
-
+ 
+## Skills 🛠️
+### Languages
+   - C <img width="25px" src="https://i.postimg.cc/QtYHbNct/png-clipart-c-c-removebg-preview.png/">
+   - Python <img width="15px" src="https://i.postimg.cc/d1w8X07j/pythoni.png/">
+   - JavaScipt <img width="15px" src="https://i.postimg.cc/TYwBFdgx/download.png/">  
+ ### Frameworks and Libraries
+   - Node.js <img width="25px" src="https://i.postimg.cc/8CPyJw4S/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png/">  
+   - Express <img width="25px" src="https://i.postimg.cc/J0cJQC7d/api-interface.png/">  
+   - Tailwind CSS <img width="19px" src="https://i.postimg.cc/9QNx9Znw/tailwind-css3232-logowik-com-removebg-preview.png/"> 
+ 
 <br>
  
   ## 📊 GitHub Stats:
