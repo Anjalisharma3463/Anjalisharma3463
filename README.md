@@ -31,9 +31,7 @@
 <p align="left"> <a href="https://twitter.com/anjalis57610098" target="blank"><img src="https://img.shields.io/twitter/follow/anjalis57610098?logo=twitter&style=for-the-badge" alt="anjalis57610098" /></a> </p>
 
  
-- 📝 I  write articles on [https://medium.com/@anjalisharma1562005](https://medium.com/@anjalisharma1562005)
-
- - 📫 This is my Portfolio website --> [https://sharma-anjali-portfolio.vercel.app/]
+ 
 
 - 📫 How to reach me **anjalisharma1562005@gmail.com**
  
